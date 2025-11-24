@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "http://py-cdn.vip17788.com:80/:splat"
+  to = "https://py-cdn.vip17788.com:443/:splat"
   status = 200
   force = true
