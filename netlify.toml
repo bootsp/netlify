@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://py.vip17788.com:443/:splat"
+  status = 200
+  force = true
